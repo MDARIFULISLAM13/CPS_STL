@@ -1,0 +1,11 @@
+{
+    "files.autoSave": "onFocusChange",
+    "editor.formatOnSave": true,
+    "[cpp]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true
+}
