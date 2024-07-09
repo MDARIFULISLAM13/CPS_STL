@@ -1,0 +1,1 @@
+{"name":"Local: A_Sereja_and_Dima","url":"c:\\STL_CPS\\vector\\A_Sereja_and_Dima.cpp","tests":[{"id":1720546153075,"input":"7\n1 2 3 4 5 6 7","output":"16 12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\STL_CPS\\vector\\A_Sereja_and_Dima.cpp","group":"local","local":true}
